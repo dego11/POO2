@@ -1,31 +1,12 @@
-HP@DESKTOP-RJFSEU1 MINGW64 ~
-$ git config --list
-core.symlinks=true
-core.autocrlf=true
-core.fscache=true
-color.diff=auto
-color.status=auto
-color.branch=auto
-color.interactive=true
-help.format=html
-rebase.autosquash=true
-http.sslcainfo=C:/Program Files (x86)/Git/mingw64/ssl/certs/ca-bundle.crt
-http.sslbackend=openssl
-diff.astextplain.textconv=astextplain
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-credential.helper=manager
-rebase.usebuiltin=true
-stash.usebuiltin=true
-user.name=sofia2018
-user.email=sofiaanabelcaisa2018@hotmail.com
-winupdater.recentlyseenversion=2.19.1.windows.1
+git branch
+Este comando se usa para listar, crear o borrar ramas. Para listar todas las ramas se usa:
+git branch
 
-HP@DESKTOP-RJFSEU1 MINGW64 ~
-$ ^C
+para borrar la rama:
 
-HP@DESKTOP-RJFSEU1 MINGW64 ~
-$
-https://github.com/dego11/POO2.git
+git branch -d <branch-name>
+git pull
+Para poder fusionar todos los cambios que se han hecho en el repositorio local trabajando, el comando que se usa es:
+git pull
+git merge
+Este comando se usa para fusionar una rama con otra rama activa:
