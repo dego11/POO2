@@ -1,0 +1,31 @@
+HP@DESKTOP-RJFSEU1 MINGW64 ~
+$ git config --list
+core.symlinks=true
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files (x86)/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+rebase.usebuiltin=true
+stash.usebuiltin=true
+user.name=sofia2018
+user.email=sofiaanabelcaisa2018@hotmail.com
+winupdater.recentlyseenversion=2.19.1.windows.1
+
+HP@DESKTOP-RJFSEU1 MINGW64 ~
+$ ^C
+
+HP@DESKTOP-RJFSEU1 MINGW64 ~
+$
+https://github.com/dego11/POO2.git
