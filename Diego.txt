@@ -1,1 +1,7 @@
 Hola a todos
+Ing. buen dia
+mil disculpas por no haber subido el deber en su red.
+¿QUE ES UN PARADIGMA?
+Un paradigma de programación es una forma de conceptualizar en qué consiste la ejecución 
+de un programa y cómo deben de estructurarse y organizarse las tareas que se llevaran a 
+cabo en esa ejecución.A continuación describimos dos de los principales paradigmas.
